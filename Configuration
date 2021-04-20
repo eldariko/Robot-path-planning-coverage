@@ -1,0 +1,6 @@
+map: roboticLabMap.png
+startLocation: 362 305 20
+goal: 169 138
+robotSize: 0.3 0.3
+MapResolutionCM: 0.025
+GridResolutionCM: 10
